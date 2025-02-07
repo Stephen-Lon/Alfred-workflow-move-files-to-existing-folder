@@ -6,15 +6,19 @@ This workflow takes a file or files selected in Finder and moves them to an exis
 
 # Usage
 
-1. Simply select a file or files in Finder, press your Universal Action hotkey (`⌘ + /` by default) and, if this workflow title does not appear at the top of the list of your Universal Actions, start typing `Move` until you see the name of this workflow.
+1. If you want to use a hotkey to launch the workflow double click on the hotkey action in the workflow, press the key combination you want to use then click on `Save`.
+
+2. To use the workflow simply select a file or files in Finder then press either:
+- your hotkey; or
+- your Universal Action hotkey (if this workflow title does not appear at the top of the list of your Universal Actions start typing `Move` until you see the name of this workflow).
 
 ![Move](https://github.com/user-attachments/assets/fe00da4a-8e97-40b4-bb52-95346fad1c6f)
 
-2. Choose the folder to which you wish to move the file or files. Just start typing the name of the folder to see a list of matching folders from which you can select the appropriate one. (See also the important note below about discovery of folders.)
+3. Choose the folder to which you wish to move the file or files. Just start typing the name of the folder to see a list of matching folders from which you can select the appropriate one. (See also the important note below about discovery of folders.)
 
 ![ChooseFolder](https://github.com/user-attachments/assets/996945e4-a873-4d37-8169-0265f8310659)
 
-The files moved (not copied) to the folder (note that existing files will not be overwritten) and the folder will be opened.
+The files will be moved (not copied) to the folder (note that existing files will not be overwritten) and the folder will be opened.
 
 # Important note
 
