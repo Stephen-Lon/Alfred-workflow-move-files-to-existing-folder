@@ -16,6 +16,6 @@ This workflow takes a file or files selected in Finder and moves them to an exis
 
 The files moved (not copied) to the folder (note that existing files will not be overwritten) and the folder will be opened.
 
-# Important notes
+# Important note
 
 - In order for a folder to be found in the second step of the workflow *it must be within your default search scope*. (See `Alfred Preferences → Features → Default Results` and look under `Search Scope`.) However, if you want to be able to find folders outside that scope just double click on the workflow `File Filter`, go to `Scope` and drag in the folder(s) you wish to be included within the file filter search scope. *Note that if you do that you'll also as well have to drag in the folders that are within your Alfred search scope*. If you don't do that the folder search will be limited only to the new folders you have dragged in.
